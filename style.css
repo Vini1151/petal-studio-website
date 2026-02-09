@@ -292,6 +292,17 @@ h2{
     gap: 3rem;
 }
 
+.petal-box {
+        background-color: #e9c6c6;
+        border-radius: 15px;
+    }
+.submit-button{
+    background-color: #cd6b6b;
+}
+ .petal-title {
+        color: #c06969;
+    }
+
 .contact {
     padding: 5rem 4rem;
     background-color: #ca7878;
@@ -453,4 +464,5 @@ footer p {
         gap: 2rem;
     }
 }
+
 
