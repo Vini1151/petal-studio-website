@@ -1,2 +1,2 @@
 # petal-studio-website
-A two-page flower shop website built using HTML and CSS.
+Petal Studio is a floral website designed to showcase and sell beautiful flower arrangements. It features a clean and elegant UI, product listings, and a feedback form for users. Built using HTML, CSS, Bootstrap, and JavaScript.
