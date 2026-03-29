@@ -111,7 +111,7 @@
                     <p class="text-center text-muted mb-4">
                     Help Petal Studio bloom better with your thoughts
                 </p>
-                <form>
+                <form id="feedbackForm">
                     <div class="mb-3">
                         <label class="form-label">Your Name (Optional)</label>
                         <input type="text" class="form-control" placeholder="Enter your name">
@@ -159,7 +159,7 @@
     if (form) {
         form.addEventListener("submit", function(e) {
             e.preventDefault();
-            window.alert("Thank you for your feedback! 💖");
+            window.alert("Thank you for your feedback!");
             form.reset();
         });
     }
